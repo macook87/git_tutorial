@@ -1,4 +1,4 @@
-# git_tutorial example
+# git_tutorial example (addition in R)
 
 2 + 6
 
